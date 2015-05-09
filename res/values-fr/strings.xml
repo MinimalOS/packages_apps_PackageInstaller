@@ -84,6 +84,15 @@
     <string name="allPerms" msgid="1024385515840703981">"Toutes"</string>
     <string name="privacyPerms" msgid="1850527049572617">"Confidentialité"</string>
     <string name="devicePerms" msgid="6733560207731294504">"Accès à l\'appareil"</string>
+    <!-- Tab label for version information [CHAR LIMIT=20] -->
+    <string name="appVersion">Info de version</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Cette mise à jour n\'exige pas de nouvelles autorisations."</string>
     <string name="grant_confirm_question" msgid="4690289297029223742">"Voulez-vous accorder les autorisations suivantes ? L\'utilisateur aura accès aux éléments suivants :"</string>
+	
+    <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+    <string name="no_perms">Cette application fonctionne sans autorisation.</string>
+
+    <string name="currentVersion">Version actuelle :</string>
+    <string name="newVersion">Nouvelle version :</string>
+    <string name="not_available">non disponible</string>
 </resources>
